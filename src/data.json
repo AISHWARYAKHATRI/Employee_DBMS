@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://via.placeholder.com/150",
+    "first_name": "John",
+    "last_name": "Doe",
+    "age": 30,
+    "contact_number": "+1234567890",
+    "salary": 60000,
+    "dob": "1992-03-15",
+    "designation": "Software Developer",
+    "address": "123 Main Street, Anytown, CA, 12345"
+  },
+  {
+    "id": 2,
+    "image_url": "https://via.placeholder.com/150",
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "age": 25,
+    "contact_number": "+1987654321",
+    "salary": 55000,
+    "dob": "1997-08-20",
+    "designation": "Marketing Specialist",
+    "address": "456 Elm Street, Sometown, NY, 54321"
+  },
+  {
+    "id": 3,
+    "image_url": "https://via.placeholder.com/150",
+    "first_name": "Michael",
+    "last_name": "Johnson",
+    "age": 40,
+    "contact_number": "+1122334455",
+    "salary": 70000,
+    "dob": "1982-05-10",
+    "designation": "Project Manager",
+    "address": "789 Oak Avenue, Villageville, TX, 67890"
+  },
+  {
+    "id": 4,
+    "image_url": "https://via.placeholder.com/150",
+    "first_name": "Emily",
+    "last_name": "Brown",
+    "age": 28,
+    "contact_number": "+1555666777",
+    "salary": 50000,
+    "dob": "1994-11-25",
+    "designation": "HR Coordinator",
+    "address": "101 Pine Street, Mount City, FL, 24680"
+  },
+  {
+    "id": 5,
+    "image_url": "https://via.placeholder.com/150",
+    "first_name": "David",
+    "last_name": "Wilson",
+    "age": 35,
+    "contact_number": "+1444333222",
+    "salary": 65000,
+    "dob": "1989-07-12",
+    "designation": "Senior Engineer",
+    "address": "222 Cedar Lane, Hilltown, WA, 13579"
+  },
+  {
+    "id": 6,
+    "image_url": "https://via.placeholder.com/150",
+    "first_name": "Sophia",
+    "last_name": "Martinez",
+    "age": 32,
+    "contact_number": "+1777888999",
+    "salary": 62000,
+    "dob": "1990-02-18",
+    "designation": "Financial Analyst",
+    "address": "333 Maple Avenue, Lakeside, CA, 24681"
+  },
+  {
+    "id": 7,
+    "image_url": "https://via.placeholder.com/150",
+    "first_name": "James",
+    "last_name": "Taylor",
+    "age": 45,
+    "contact_number": "+1888777666",
+    "salary": 75000,
+    "dob": "1979-09-05",
+    "designation": "Sales Manager",
+    "address": "444 Walnut Street, Riverside, IL, 97531"
+  },
+  {
+    "id": 8,
+    "image_url": "https://via.placeholder.com/150",
+    "first_name": "Emma",
+    "last_name": "Anderson",
+    "age": 29,
+    "contact_number": "+1666777888",
+    "salary": 58000,
+    "dob": "1993-04-30",
+    "designation": "Graphic Designer",
+    "address": "555 Oak Street, Valley City, OH, 36985"
+  },
+  {
+    "id": 9,
+    "image_url": "https://via.placeholder.com/150",
+    "first_name": "Daniel",
+    "last_name": "Garcia",
+    "age": 38,
+    "contact_number": "+1999888777",
+    "salary": 68000,
+    "dob": "1986-12-08",
+    "designation": "Operations Manager",
+    "address": "666 Pine Lane, Lakeside, MI, 14785"
+  },
+  {
+    "id": 10,
+    "image_url": "https://via.placeholder.com/150",
+    "first_name": "Olivia",
+    "last_name": "Rodriguez",
+    "age": 27,
+    "contact_number": "+1888999000",
+    "salary": 54000,
+    "dob": "1995-06-23",
+    "designation": "Customer Service Representative",
+    "address": "777 Elm Avenue, Riverside, NJ, 75309"
+  }
+]

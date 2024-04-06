@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript Sandbox</title>
+    <link rel="stylesheet" href="./styles.css"></link>
+    <meta charset="UTF-8" />
+  </head>
+
+  <body>
+    <div id="app">
+      <header>
+        <h2>Employee Database Management</h2>
+        <button class="create_employee">Add Empoyee</button>
+      </header>
+    </div>
+
+    <div class="employees">
+      <div class="employees__names">
+        <span class="employees__names--title">Employees List</span>
+        <div class="employees__names--list"></div>
+      </div>
+
+      <div class="employess__single">
+        <span class="employees__single--title">Employee Information</span>
+        <div class="employess_names--info"></div>
+      </div>
+
+    </div>
+
+     <!-- Add employee modal -->
+     <div class="addEmployee">
+      <form class="addEmployee_create">
+        Add a New Employee
+        <div>
+          <input 
+          type="text"
+          name="first_name"
+          placeholder="First Name"
+          required
+          />
+          <input 
+          type="text"
+          name="last_name"
+          placeholder="Last Name"
+          required
+          />
+        </div>
+          <input 
+          type="text"
+          name="image_url"
+          placeholder="Image URL"
+          required
+          />
+          <input 
+          type="text"
+          name="address"
+          placeholder="Address"
+          required
+          />
+          <input 
+          type="number"
+          name="salary"
+          placeholder="Salary"
+          required
+          />
+          <input 
+          type="email"
+          name="email"
+          placeholder="Email"
+          required
+          />
+          <input 
+          type="date"
+          name="dob"
+          class="create_employee--dob"
+          placeholder="Date of Birth"
+          required
+          />
+          <input
+          class="submit-btn"
+          type="submit"
+           />
+        </div>
+      </form>
+
+    <script src="./index.js" type="module"></script>
+  </body>
+</html>
